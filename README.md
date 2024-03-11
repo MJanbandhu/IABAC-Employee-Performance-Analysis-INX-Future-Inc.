@@ -1,4 +1,4 @@
-**Employee Performance Analysis**
+# **Employee Performance Analysis**
 *INX Future Inc.*
 
 Instructions
@@ -19,6 +19,41 @@ The following insights are expected from this project.
 4. Recommendations to improve the employee performance based on insights from analysis.
 
 
-Project Data:
+# Project Data:
 The employee performance date of INX Future Inc. can be downloads from below link.
 https://www.kaggle.com/datasets/mohitjanbandhu/iabac-employee-performance-analysis
+
+
+# Model Comparison Report 
+The accuracy score achieved using Decision Tree is: 1.0 %
+The accuracy score achieved using Random Forest is: 0.9111111111111111 %
+The accuracy score achieved using Supper Vector Machine is: 0.7527777777777778 %
+The accuracy score achieved using Gradient Boosting is: 0.9388888888888889 %
+The accuracy score achieved using K-Nearest Neighbors is: 0.725 %
+The accuracy score achieved using Artificial Nueral Network is: 0.7222222222222222 %
+
+![Untitled](https://github.com/MJanbandhu/IABAC-Employee-Performance-Analysis-INX-Future-Inc./assets/69210761/e27088b4-7016-457a-bb63-a33998c1b965)
+
+
+
+
+# Conclusion and Recommendation
+
+    Within all the five models Three model gives more accuracy score followed closely by K-Nearest Neighbors and ANN
+    While ANN had the lowest performance.
+    ie; Here the best model is
+        1.Decision Tree
+        2.Random Forest
+        3.Gradient Boosting
+        4.XG-Boost
+
+** so we have to go with 1.Decision Tree Random Forestprediction **
+
+    Read file of
+        1.Decision Tree
+        2.Random Forest
+
+Establish measurable goals and milestones to track progress. Clearly define performance expectations and objectives for the employee. Collaborate with the employee to develop a personalized action plan for development. When discussing performance improvement with an employee, it's crucial to maintain a respectful and constructive dialogue. Focus on providing support, guidance, and opportunities for growth to help the employee reach their full potential. Because
+
+In conclusion, this project has provided valuable insights into which factors influencing employee performance, with implications for devloper and senior devloper Moving forward, it is essential to hire employee according to model file (In Which I saved the model). have to hire more employee who left job in department.
+
